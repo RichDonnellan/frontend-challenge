@@ -1,0 +1,9 @@
+{
+  "title": "Hello World",
+  "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat sit at quibusdam incidunt dolore quam? Ipsum enim quia numquam temporibus vitae nam dicta tempora voluptatem dolor similique? Praesentium, distinctio voluptates.",
+  "background": "https://media.dermstore.com/images/homepage/hp-bb-april-3b.jpg",
+  "button": {
+    "href": "https://dermstore.com",
+    "text": "Learn More"
+  }
+}
